@@ -7314,3 +7314,4 @@ Kashish Khullar - :P
 - [Wico](https://github.com/wicogohome)
 - [Koh You Liang](https://github.com/isopach)
 - [Martin Vds](https://github.com/MartinVandersteen)
+- [Tharindu Malshan](https://github.com/tharindumalshan1)
